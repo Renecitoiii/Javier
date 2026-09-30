@@ -1,0 +1,6 @@
+{
+  "name": "RACHA - Días Consecutivos de Estudio",
+  "description": "App de seguimiento de racha de estudio en modo oscuro con estética neón, 100% offline y sin anuncios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
